@@ -15,7 +15,7 @@ body{
 header{
     text-align: center;
     background-image: linear-gradient(#2fa866, #1a5c37, #063d1e);
-    min-height: 150px;
+    
     padding: 5px;
 }
 header > nav{
@@ -45,15 +45,13 @@ nav > a:hover{
     color: white;
     text-shadow: 3px 1px 5px black;
 }
-header > p{
+.pheader{
     color: white;
-    margin: auto;
     text-shadow: 3px 1px 5px black;
     text-align: center;
     
-    
 }
-p{
+.pp{
     margin: auto;
     text-align: justify;
     text-indent: 30px;
