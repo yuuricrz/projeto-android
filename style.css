@@ -149,6 +149,7 @@ aside > ul{
     text-align: left;
 }
 footer > p{
+    margin: auto;
     background-color: #063d1e;
     color: white;
     text-align: center;
